@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "default_expanded": true,
+  "cards": [
+    {
+      "id": "github",
+      "kind": "github",
+      "title": "Explore More Projects",
+      "subtitle": "See more AI and developer tools on GitHub.",
+      "cta_text": "Open GitHub",
+      "url": "https://github.com/insogao"
+    },
+    {
+      "id": "community",
+      "kind": "community",
+      "title": "Discover AI Builders",
+      "subtitle": "Browse a leading AI community and model ecosystem.",
+      "cta_text": "Open Hugging Face",
+      "url": "https://huggingface.co"
+    }
+  ]
+}
